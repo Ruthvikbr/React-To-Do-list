@@ -3,7 +3,7 @@
 This is a sample to do list app built using [React.js](https://reactjs.org/)
 
 ## Built using
-- [Javascript]
+- Javascript
 - [Materialize](https://materializecss.com/)
 
 ## Feature Screenshots
